@@ -1,0 +1,16 @@
+ALL IMAGE/VIDEO ASSETS MUST BE IN THE REPOSITORY ROOT (NO assets/ FOLDER).
+
+LOGO: logo.jpeg
+HERO: hero.mp4
+ABOUT: about.jpeg
+SIGNATURE PROJECTS: c1.jpeg ... c15.jpeg
+GALLERY: g1.jpeg ... g6.jpeg
+CONTACT BACKGROUND: contact-bg.jpeg
+
+PRODUCTS: 8 product slides. Recommended 5 views per product:
+p1a.jpeg ... p1e.jpeg
+p2a.jpeg ... p2e.jpeg
+...
+p8a.jpeg ... p8e.jpeg
+
+The current product slider shows one product at a time and uses the first (a) view for each product.
